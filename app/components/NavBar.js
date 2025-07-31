@@ -18,7 +18,7 @@ export default function NavBar() {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4a2 2 0 00-2-2H6a2 2 0 00-2 2v16a2 2 0 002 2h4a2 2 0 002-2v-2m0-12h6a2 2 0 012 2v16a2 2 0 01-2 2h-6" />
           </svg>
         </span>
-        <h1 className="text-2xl font-bold font-titre">
+        <h1 className="text-2xl font-titre">
           AZIZ-BOOKSTORE
         </h1>
       </div>
